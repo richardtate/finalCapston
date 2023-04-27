@@ -1,4 +1,4 @@
-# finalCapston
+# finalCapstone
  Final Capstone Project
 
  Richard Tate - 27/04/2023  (RT23010006855)
