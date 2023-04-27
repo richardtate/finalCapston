@@ -17,12 +17,11 @@ Finance Calculators allows a user to use two different financial calculators: an
 * bond - input the value of the house, the interest rate, and the number of months repayments will be over.
 
 
-### Installation
+### Installation
 finance_calculators.py file can installed locally, with the following library dependencies: `math`
 
 
 ### Useage
-
 Simple to use, all instructions are given when the program is run.  Money, percentage and months / years should be entered in integers.  There is no need to use % symbol for the percentage figures.
 
 ![finalCapston](./img1.jpg)
